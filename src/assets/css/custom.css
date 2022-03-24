@@ -1,0 +1,4023 @@
+p,
+span,
+a,
+b,
+i,
+button,
+Button * {
+  font-family: "Segoe UI", sans-serif;
+}
+
+ul li {
+  font-family: "Segoe UI", sans-serif;
+}
+
+.MuiOutlinedInput-input,
+.MuiButton-root,
+.MuiTypography-body1,
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root,
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  font-family: "Segoe UI", sans-serif !important;
+}
+
+.MuiButton-root {
+  text-transform: capitalize !important;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.MuiButton-outlinedPrimary {
+  border: 1px solid rgb(133, 133, 133) !important;
+}
+
+.MuiTableCell-root {
+  font-family: "Segoe UI", sans-serif !important;
+}
+
+.bodyTitles {
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  color: #555555 !important;
+  text-transform: capitalize !important;
+}
+
+.invoiceBodyTitles {
+  font-weight: 600 !important;
+  font-size: 20px !important;
+  text-transform: capitalize !important;
+}
+.invoiceNoteTextbox {
+  padding-right: 2.5rem !important;
+}
+
+.invoiceButtons {
+  width: 155px;
+  padding-left: 7px;
+  padding-right: 7px;
+  font-size: 16px;
+  margin-right: 20px !important;
+}
+
+.completeProfileHeader {
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  color: #ffffff !important;
+}
+
+b {
+  font-weight: 600 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.bulletpoint ul li {
+  list-style: circle !important;
+  list-style-type: disc !important;
+  margin-left: 25px !important;
+}
+
+body {
+  background-color: #f7f7f7 !important;
+  /* font-family: "Segoe UI", sans-serif; */
+}
+
+.mainTab2 .MuiTab-root {
+  text-transform: capitalize;
+}
+
+#container {
+  height: 50px;
+  overflow: hidden;
+  border: 1px ridge grey;
+  display: inline-block;
+}
+
+.icon-colors {
+  color: white !important;
+}
+.downPay {
+  display: flex;
+  justify-content: center;
+}
+
+.chip.MuiChip-root {
+  border-radius: 50px !important;
+  background-color: #ffbc48 !important;
+  color: white !important;
+  height: 25px !important;
+  margin-left: 5px !important;
+}
+
+.acccord-summary .MuiAccordionSummary-content {
+  display: flow-root !important;
+  height: 2px !important;
+}
+
+.outer-accord.MuiPaper-elevation1 {
+  box-shadow: none !important;
+}
+
+.dropdown-accordion.MuiAccordionSummary-root {
+  padding: 0px !important;
+}
+
+.accord-details.MuiAccordionDetails-root {
+  display: contents !important;
+}
+
+.final-team {
+  min-height: 25px !important;
+  border-radius: 10px !important;
+  margin-bottom: 15px !important;
+}
+
+.skill-level {
+  color: #555555 !important;
+  font-weight: 600 !important;
+}
+
+.acccord-summary .MuiAccordionSummary-content {
+  display: flow-root !important;
+}
+
+.MuiOutlinedInput-inputMarginDense {
+  height: 20px !important;
+}
+
+.MuiCardContent-root {
+  padding-bottom: 0px !important;
+}
+
+.list-box {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  width: 175px;
+}
+
+.list-item {
+  margin: 3px;
+}
+
+.list-item input[type="text"] {
+  width: 149px;
+}
+
+.candidateDetail {
+  width: 470px !important;
+}
+
+::-webkit-file-upload-button {
+  display: none;
+}
+
+.line {
+  color: #555555;
+  height: 100% !important;
+  width: 1px;
+  opacity: 0.1;
+  margin: 0 0 !important;
+}
+.colSpace {
+  width: 10px !important;
+}
+
+.job-file-upload {
+  height: 100px;
+  width: 100%;
+  border-style: dashed;
+  border-color: #80808060;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.profileImgUpload {
+  height: 100px;
+  width: 100%;
+  border-style: dashed;
+  border-color: #80808060;
+  border-radius: 5px;
+}
+
+.freelance-action {
+  background-color: rgb(0 0 0 / 15%);
+  border-radius: 13px !important;
+}
+
+.adminPageEdit-action {
+  background-color: #2e405b52;
+  border-radius: 13px !important;
+}
+
+.adminPageDelete-action {
+  background-color: #f7000019;
+  border-radius: 13px !important;
+}
+
+.team-action {
+  background-color: #f7000019;
+  border-radius: 13px !important;
+}
+
+.action-button {
+  min-width: 0px !important;
+  background-color: white !important;
+}
+
+.active-color {
+  color: #04273afb;
+}
+
+input[type="file"].job-file-upload {
+  color: white;
+}
+
+input[type="file"].profileImgUpload {
+  color: white;
+}
+
+.error-message {
+  height: 15px !important;
+}
+
+main {
+  width: 100%;
+  margin: 110px 60px 0 11.6px !important;
+}
+
+.container {
+  width: 900px !important;
+  margin-top: 95px;
+}
+.ad-container {
+  margin: auto;
+  width: 900px !important;
+}
+
+.profilemain {
+  width: 100%;
+  margin-top: 20px !important;
+  overflow-x: hidden;
+}
+
+.job-title {
+  text-transform: capitalize;
+}
+
+.post-job-card {
+  padding: 15px 40px !important;
+  background-color: white !important;
+}
+.post-job-title {
+  padding: 15px 0px !important;
+  width: 70% !important;
+}
+
+.profile-headings {
+  font-size: 16px;
+  color: #555555;
+}
+
+.profile-image-web {
+  margin-left: 9px;
+  margin-top: 2px;
+}
+
+.profile-image-web1 {
+  display: flex;
+  justify-content: center;
+}
+
+/* THE CSS FOR FILE HOVER */
+
+.file {
+  position: relative;
+}
+
+.content {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
+}
+
+.hoverButtons {
+  transition: 0.5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.file:hover .content {
+  opacity: 0.3;
+}
+
+.file:hover .hoverButtons {
+  opacity: 1;
+}
+
+.homepage-backgorund {
+  width: 100%;
+}
+.webLandingImg {
+  height: 100vh !important;
+  margin-bottom: 140px !important;
+}
+.backgorund {
+  overflow-x: hidden;
+  background-color: #ffffff;
+}
+.homepage-backgorundMobile {
+  display: none;
+}
+.btn {
+  background-color: #2e405b !important;
+  color: white !important;
+}
+
+.savePaymentBtn {
+  background-color: #2e405b !important;
+  color: white !important;
+  width: 100px !important;
+}
+
+.addCartBtn {
+  background-color: #2e405b !important;
+  color: white !important;
+}
+
+.addCartBtn2 {
+  background-color: #009e20 !important;
+  color: white !important;
+  text-transform: none !important;
+}
+
+.homepage-btn {
+  background-color: #2e405b !important;
+  color: white !important;
+  height: 44px;
+}
+
+.logobrand {
+  width: 160px;
+  margin: 27px 0 80px 0;
+}
+
+.dashboardLogo {
+  visibility: hidden;
+}
+
+.btn-text {
+  color: #2e405b !important;
+}
+
+.questions-actions {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+#question {
+  text-transform: capitalize !important;
+}
+#addon {
+  background-color: #2e405b !important;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #2e405b;
+}
+
+.homepage-navLink {
+  text-decoration: none;
+  color: #2e405b;
+  cursor: pointer;
+}
+
+.mobileNavLink {
+  text-decoration: none;
+  color: white;
+}
+
+.profileNavLink {
+  text-decoration: none;
+  color: #a3a2a2;
+}
+
+.profileNavLink:hover {
+  color: #2e405b;
+  background-color: #2e405b33;
+}
+
+.profileNavLink-active {
+  color: #2e405b;
+  font-weight: bolder;
+  background-color: #2e405b33 !important;
+}
+
+.dashboardNavLink {
+  text-decoration: none;
+  color: #c9c8c8;
+}
+
+.dashboardNavLink:hover {
+  color: #ffffff;
+}
+
+.dashboardNavLink-active {
+  color: #ffffff;
+  background-color: #10557a !important;
+}
+
+.navSpace {
+  margin-left: 11px;
+  margin-bottom: 0;
+}
+
+.navBar {
+  position: static;
+  min-height: 70px;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  z-index: 1301 !important;
+}
+
+.navBar.active {
+  background-color: white !important;
+  transition: background-color 200ms linear;
+}
+.navBar.active .homepage-navLink {
+  color: #2e405b !important;
+}
+.navBar.active .navLink {
+  color: #2e405b !important;
+}
+
+.navBar-login {
+  position: fixed;
+  overflow: hidden;
+  min-height: 70px;
+  background-color: rgb(255, 255, 255) !important;
+  box-shadow: none !important;
+}
+
+.NewnavBar-login {
+  position: fixed;
+  overflow: hidden;
+  height: 56.4px !important;
+  background-color: rgb(255, 255, 255) !important;
+}
+.NewnavBar-login.MuiPaper-elevation4 {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 8px !important;
+}
+
+.navBar.active {
+  background-color: white !important;
+  transition: background-color 200ms linear;
+}
+
+.card-padding {
+  padding: 20px;
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.card-padding::-webkit-scrollbar {
+  display: none;
+}
+
+.profileCardPadding {
+  padding: 48px !important;
+}
+
+.edit-label-length {
+  width: 92% !important;
+  border: 1px solid rgba(0, 0, 0, 0.23);
+  border-right: 0 !important;
+  border-radius: 4px 0 0 4px;
+  height: 46px;
+  padding: 8px 0 0 10px;
+  margin-top: -1px;
+}
+
+.uploadCV-label-length {
+  width: 92% !important;
+  border: 1px solid rgba(0, 0, 0, 0.23);
+  border-right: 0 !important;
+  border-radius: 4px 0 0 4px;
+  height: 45.5px;
+  padding: 13px 0 0 13px;
+  margin-top: -5px;
+}
+
+.attachmentIcon {
+  border: 1px solid #cccccc;
+  border-left: 0 !important;
+  border-radius: 0 4px 4px 0;
+  height: 45.5px !important;
+  margin-top: -1px;
+}
+.CVattachmentIconBorder {
+  border: 0.5px solid rgba(0, 0, 0, 0.23);
+  border-left: 0 !important;
+  border-radius: 0 4px 4px 0;
+  height: 45.5px !important;
+  margin-top: -5px;
+  width: 40px !important;
+}
+.CVattachmentIcon {
+  height: 46px !important;
+  width: 22px !important;
+}
+
+.potfolioFileName {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #70707075;
+}
+.CVFileName {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: rgba(0, 0, 0, 0.54);
+  font-size: 14px;
+}
+
+.city-country {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transform: capitalize !important;
+}
+.applicantLabel label {
+  width: 80%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.category {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.portFileName {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fileNameDetail {
+  width: 80%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.navcontainer {
+  margin: 0 140px;
+  padding-top: 20px;
+}
+.adminPagesHomePage {
+  margin-top: 15px;
+  margin-right: 15px;
+}
+.calendly-icon {
+  margin-right: 5px !important;
+}
+.navcontainer-login {
+  padding: 10px 52px 10px 54px !important;
+}
+
+.newNavcontainer-login {
+  padding: 0px 80px 0px 80px !important;
+}
+
+.menuButton {
+  display: none !important;
+  color: black;
+}
+
+.menuitems {
+  margin-left: 5%;
+}
+
+.menu-mobile {
+  padding: 10px;
+}
+
+.homepage-caption {
+  position: absolute;
+  top: 40%;
+  left: 165px;
+}
+
+.shorten-filename {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.bannerMainText {
+  font-size: 33px;
+  font-weight: 700;
+}
+.skillsPaper {
+  text-align: center;
+  margin-bottom: 1.25rem;
+  margin-right: 1.875rem;
+  min-height: 5.002rem;
+}
+.skillsPaperAppliDetails {
+  min-height: 3.3rem;
+}
+.skillsCardContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.skillPaperCat {
+  padding-top: 12px;
+  margin-bottom: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  flex-wrap: wrap;
+}
+.skillCertified {
+  margin-bottom: 10px !important;
+  border-radius: 10px !important;
+}
+.skillNameTitle {
+  margin-right: 7px;
+  font-weight: 600 !important;
+  margin-bottom: 10px;
+  color: #555555;
+  font-size: 1rem;
+}
+.skillProficiency {
+  margin-bottom: 2px !important;
+  padding-bottom: 10px;
+  color: #555555;
+}
+
+.bannerMainTextMobile {
+  font-size: 33px;
+  font-weight: 700;
+  display: none !important;
+}
+
+.bannerSubText {
+  color: #555555;
+  font-size: 15px;
+}
+
+.bannerSubTextMobile {
+  display: none !important;
+}
+
+#sub {
+  text-transform: capitalize !important;
+}
+
+.job-badge {
+  background-color: #0c476726 !important;
+  color: #2e405b !important;
+  margin-right: 10px;
+  padding: 8px !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 500 !important;
+  text-transform: capitalize !important;
+}
+
+.job-badge-skill {
+  background-color: #009e2026 !important;
+  color: #009e20 !important;
+  margin-right: 10px;
+  padding: 4.5px 8px !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 500 !important;
+  text-transform: capitalize !important;
+}
+.job-badge-skill2 {
+  background-color: #009e2026 !important;
+  color: #009e20 !important;
+  margin-right: 10px;
+  padding: 4px 5px 2px 8px !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 500 !important;
+  text-transform: capitalize !important;
+  font-size: 0.7rem !important;
+}
+
+.skill-tag {
+  margin-left: 5px !important;
+}
+
+.skill-tag-container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: stretch;
+}
+
+.job-badge-skill-tag {
+  background: #2e405b26 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  opacity: 1;
+  margin: 5px;
+  padding: 7px;
+  margin-right: 15px !important;
+}
+
+.applicant-badge {
+  background: #2e405b26 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  opacity: 1;
+  margin-right: 5px;
+  height: 30px;
+}
+
+.MuiInputLabel-root {
+  font-family: "Segoe UI", sans-serif !important;
+  font-size: 15px !important;
+}
+
+.MuiPopover-paper::-webkit-scrollbar {
+  width: 4px;
+}
+
+#simple-menu .MuiMenu-paper {
+  width: 130px;
+}
+
+#catdialog .MuiDialog-paperFullWidth {
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root {
+  font-family: "Segoe UI", sans-serif !important;
+}
+.search-badge {
+  background-color: #2e405b4d !important;
+  color: #2e405b !important;
+}
+
+.alljobs-delete {
+  background-color: #f700001a !important;
+  color: #f70000;
+}
+
+.jobFilters {
+  width: 280px !important;
+  margin-right: 20px !important;
+}
+
+.findFreelancer {
+  display: flex;
+}
+
+.search-field {
+  width: 310px !important;
+  border-radius: 5px;
+  margin-right: 30px !important;
+}
+
+.password .MuiIconButton-root {
+  padding: 0 12px;
+}
+
+.resetPasswordCard {
+  width: 30%;
+  margin: auto;
+}
+
+.forgotPasswordBody {
+  background: #f7f7f7;
+  background-blend-mode: screen;
+  background-attachment: fixed;
+  height: 100vh;
+  padding-top: 120px;
+}
+
+.codebox {
+  width: 13%;
+  height: 40px;
+  margin: 10px 8px;
+  border-radius: 8px;
+  border: 1px solid #5555;
+}
+
+.confirm-code {
+  text-align: center;
+}
+
+.divider {
+  margin: 0 5px 0 5px;
+}
+.certdivider {
+  margin: 0 5px 0 5px;
+}
+.certificateDate {
+  display: flex;
+  justify-content: end;
+}
+.applicantDetailsExp {
+  display: flex;
+  justify-content: space-between;
+}
+.applicantDetail {
+  display: flex;
+  justify-content: space-between;
+}
+.exdivider {
+  margin: 0 5px 0 5px;
+}
+.expTitle {
+  display: flex;
+}
+.certAuthority {
+  display: flex;
+}
+.skill-divider {
+  margin: 0 5px 0 5px;
+}
+.skillChipWeb {
+  display: inline-block !important;
+}
+.skillChipMobile {
+  display: none !important;
+}
+
+.openProfileMenuIcon {
+  display: none;
+}
+
+.admin-navbar-user-counter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+.admin-navbar-counterMobile {
+  background: red;
+  text-align: center;
+  border-radius: 40%;
+  color: white !important;
+  margin-left: 15px;
+
+  padding: 5px;
+  font-size: 11px;
+}
+.admin-navbar-counter {
+  background: red;
+  text-align: center;
+  border-radius: 40%;
+  color: white !important;
+  margin-left: 15px;
+  margin-bottom: 5px;
+  padding: 5px;
+  font-size: 11px;
+}
+
+.newNotification {
+  color: white;
+  background: rgba(255, 0, 0, 0.63);
+  padding: 4px;
+  border-radius: 40%;
+  font-size: 10px;
+  margin-right: 5px;
+}
+
+.preview {
+  display: block;
+  max-width: 230px;
+  max-height: 95px;
+  width: auto;
+  height: auto;
+}
+
+.pageTitle {
+  color: #2e405b;
+}
+
+.postJobbtn {
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+  background-color: #2e405b !important;
+  color: white !important;
+  height: 40px !important;
+}
+.postJobbtnDisabled {
+  margin-right: 30px !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+  background-color: #bdbdbdb2 !important;
+  color: white !important;
+  height: 40px !important;
+  cursor: "auto";
+}
+.addGhanaSkillbtn {
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+  background-color: #2e405b !important;
+  color: white !important;
+  height: 40px !important;
+}
+
+.postjob-options {
+  color: #7776769f !important;
+}
+.card-title {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-transform: capitalize;
+}
+.searchJobTitle {
+  width: 80%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-transform: capitalize;
+}
+
+#local::-webkit-scrollbar {
+  width: 4px;
+}
+
+#simple-menu .MuiMenuItem-root {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 14px;
+}
+
+.job-description {
+  width: 100%;
+  height: 60px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow-wrap: break-word;
+}
+.searchJobDescription {
+  width: 100%;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow-wrap: break-word;
+}
+
+.job-description2 {
+  width: 100%;
+  height: 40px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.job-description3 {
+  width: 100%;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+
+.applicantcard {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.jobDetails {
+  height: 100%;
+  overflow-y: scroll !important;
+}
+
+.fixedTable {
+  table-layout: fixed;
+}
+
+.ProfileChangesBtnContainer {
+  display: flex;
+  justify-content: end;
+}
+
+.grey-color {
+  color: "#808080" !important;
+}
+
+.personalInfo {
+  font-size: 13px;
+  margin-bottom: 4px !important;
+}
+
+.tabItems {
+  min-width: 0px !important;
+  font-size: 11px !important;
+  padding: 0px 10px !important;
+  min-height: 30px !important;
+  margin-top: 8px !important;
+  border-radius: 4px !important;
+}
+
+.tabItems span {
+  font-weight: bolder !important;
+}
+
+.tabItems.MuiTab-textColorPrimary.Mui-selected {
+  color: #363636 !important;
+  background-color: white;
+}
+
+.dropdownArrow {
+  margin-left: -40px !important;
+}
+.navItems span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  text-transform: capitalize;
+}
+.navItems.MuiTab-root {
+  min-width: 100px;
+}
+.navItems.MuiTab-textColorPrimary.Mui-selected {
+  color: #2e405b !important;
+}
+
+.navItemsWithDropdownActive .MuiTab-wrapper {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  text-transform: capitalize;
+  color: #2e405b !important;
+}
+.navItemsWithDropdownActive.MuiTab-textColorInherit {
+  opacity: 1 !important;
+}
+.navItemsWithDropdownActive.MuiTab-root {
+  min-width: 100px;
+}
+.navItemsWithDropdownInactive span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  text-transform: capitalize !important;
+  color: #555555;
+}
+.navItemsWithDropdownInactive.MuiTab-root {
+  min-width: 100px;
+}
+
+.homenavItems.MuiTab-root {
+  min-width: 100px;
+  text-transform: none;
+}
+
+#navDropdown {
+  display: none;
+}
+
+#navHover:hover #navDropdown {
+  display: block;
+}
+
+button.PivateTabIndicator-root-12r {
+  display: none !important;
+  background-color: red !important;
+}
+
+.dialogborder .MuiPaper-rounded {
+  border-radius: 15px !important;
+}
+
+.accordionRadius.MuiPaper-rounded {
+  border-radius: 8px !important;
+}
+
+.cpAvatar {
+  width: 70px !important;
+  height: 70px !important;
+  border: 8px solid #d1d8dbfa;
+  border-radius: 50% !important;
+  margin-right: 15px;
+}
+
+.cpAvatar2 {
+  width: 109px !important;
+  height: 109px !important;
+  border: 8px solid #d1d8dbfa;
+  border-radius: 50% !important;
+  background: #2e405b40 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #2e405b1a;
+  margin-right: 20px;
+}
+
+.cpAvatarProfile {
+  width: 109px !important;
+  height: 109px !important;
+  border: 8px solid #d1d8dbfa;
+  border-radius: 50% !important;
+  background: #2e405b40 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #2e405b1a;
+  margin-right: 20px;
+}
+
+.profile-links {
+  margin-right: 20px;
+}
+
+.profile-links-mobile {
+  display: none !important;
+}
+
+.cpDetailsAvatar {
+  width: 130px !important;
+  height: 130px !important;
+  border: 8px solid #d1d8dbfa;
+  border-radius: 50% !important;
+}
+
+#detailscard2 {
+  margin-left: 105px;
+}
+
+.addToTeamhelpText {
+  font-size: 10px;
+  margin-left: 32px;
+  margin-top: -10px;
+  color: #707070 !important;
+}
+.adminDashboardSummaryContainer {
+  display: flex;
+  padding: 20px 10px;
+
+  height: 130px;
+}
+
+.adminDashboardSummaryContainerMobile {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  height: 135px;
+  display: none;
+}
+
+.addTeamBtn {
+  height: 30px;
+  width: 110px;
+  background-color: #2e405b !important;
+  color: white !important;
+  font-size: 12px !important;
+  text-transform: none !important;
+}
+
+.addedTeamBtn {
+  height: 30px;
+  width: 110px;
+  background-color: #009e20 !important;
+  color: white !important;
+  font-size: 12px !important;
+  text-transform: none !important;
+}
+.addToTeamDisabled {
+  height: 30px;
+  width: 110px;
+  background-color: #bdbdbdb2 !important;
+  color: white !important;
+  font-size: 12px !important;
+  text-transform: none !important;
+  cursor: "default" !important;
+}
+
+.addAddOn {
+  height: 25px;
+  width: 60px;
+  background-color: #2e405b !important;
+  color: white !important;
+}
+
+.removeAddOn {
+  height: 25px;
+  width: 60px;
+  background-color: #f70000 !important;
+  color: white !important;
+}
+
+.candidate-pool-card {
+  height: 240px;
+}
+
+.cPoolAbIconMobile {
+  display: none !important;
+}
+
+.addOnName {
+  width: 80%;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.cost-unit {
+  text-align: right;
+}
+
+.close {
+  color: #808080 !important;
+}
+.close:hover {
+  background-color: red;
+  color: white !important;
+}
+
+.closeWelcome {
+  color: #ffffff !important;
+}
+.closeWelcome:hover {
+  background-color: red;
+}
+
+.allJobsTime {
+  text-align: right;
+}
+
+.uploadHelpText {
+  position: relative;
+  top: 60px;
+  color: #7776769f;
+}
+.uploadHelpTextMobile {
+  position: relative;
+  top: 60px;
+  color: #7776769f;
+  display: none !important;
+}
+.uploadHelpTextImgWeb {
+  position: absolute;
+  top: 140px;
+  user-select: none;
+  color: #7776769f;
+  font-size: 11px;
+  display: block;
+}
+.uploadHelpTextImgMobile {
+  position: absolute;
+  margin-top: 45px;
+  user-select: none;
+  color: #7776769f;
+  font-size: 11px;
+  display: none;
+}
+.homepageBrand {
+  cursor: pointer;
+}
+.recruiterBrand {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.filterBtn {
+  width: 100%;
+  height: 100%;
+}
+
+.searchfilterBtn {
+  width: 140px;
+  height: 96%;
+}
+
+.searchfilterBtn {
+  height: 96%;
+  min-width: 160px;
+}
+.addPageBtn {
+  height: 45px;
+  width: 160px;
+}
+.placeOrderBtn.MuiButton-root {
+  width: 100%;
+  white-space: nowrap;
+  height: 39px;
+  padding: 6px 0px;
+}
+.postJobPaper {
+  background-color: #2e405b !important;
+  color: white !important;
+  padding: 20px;
+  width: 160px !important;
+  box-shadow: "rgba(0, 0, 0, 0.1) 0px 3px 8px" !important;
+}
+.postJobPaperAlt {
+  padding: 20px !important;
+  width: 160px !important;
+  color: #707070 !important;
+  box-shadow: "rgba(0, 0, 0, 0.1) 0px 3px 8px" !important;
+}
+.RecpostJobPaper {
+  background-color: #2e405b !important;
+  color: white !important;
+  padding: 20px;
+  width: 160px !important;
+  box-shadow: "rgba(0, 0, 0, 0.1) 0px 3px 8px" !important;
+  height: 150px;
+}
+.RecpostJobPaperAlt {
+  padding: 20px !important;
+  width: 160px !important;
+  color: #707070 !important;
+  box-shadow: "rgba(0, 0, 0, 0.1) 0px 3px 8px" !important;
+  height: 150px;
+}
+.SignUpPaper{
+  background-color: #2e405b !important;
+  color: white !important;
+  padding: 12px;
+  width: 210px !important;
+  height: 150px;
+}
+.SignUpPaperAlt{
+  padding: 12px !important;
+  width: 210px !important;
+  color: #2E405B !important;
+  height: 150px;
+}
+.freelancerSignUp{
+  background-image: url("../images/Group\ 2719.svg");
+  background-repeat: no-repeat;
+  background-position: 50% 30%;
+  background-size: 20%;
+  margin-right: 20px; 
+  border: 0.2px solid #2E405B;
+}
+.clientSignUp{
+  background-image: url("../images/Group\ 2718.svg");
+  background-repeat: no-repeat;
+  background-position: 50% 30%;
+  background-size: 35%; 
+  border: 1px solid #2E405B;
+}
+.SignUpPaperText{
+  text-align: center;
+  margin-top: 4.8rem;
+  line-height: 1.2;
+  font-weight: 400;
+  font-size: 0.875rem;
+}
+.postJobIconSelected {
+  color: white;
+}
+.postJobIconUnselected {
+  color: #555555;
+}
+.summaryMobile {
+  display: none;
+  text-align: justify;
+}
+.summaryMobile p {
+  text-align: justify;
+}
+.job-detials-description {
+  color: #555555;
+}
+
+.newDashboardLogo {
+  width: 145px;
+  margin-bottom: 7px;
+}
+
+.saveProfileChangesBtn {
+  width: 170px !important;
+}
+.draft-button {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+  font-family: "Segoe UI";
+  color: #2e405b;
+  font-weight: 600;
+}
+.table-header-row {
+  color: #ffffff;
+  background-color: #2e405b;
+  margin: 2rem !important;
+  border: solid 2px black !important;
+  /* border-radius: 3px; */
+  /* margin:0 0.02vw !important; */
+}
+
+.line-amount {
+  margin-right: -3rem !important;
+}
+.line-delete {
+  margin-top: 80% !important;
+}
+.line-all {
+  margin-right: 0rem !important;
+}
+.line-header {
+  background-color: #2e405b;
+  color: #ffffff !important;
+  border-radius: 3px !important;
+}
+.line-title {
+  padding: 0.5rem;
+  margin-left: 0;
+}
+
+.paymentOrderMobile {
+  display: none;
+}
+
+.table-header-row {
+  color: #ffffff;
+  background-color: #2e405b;
+  margin: 2rem !important;
+  border: solid 2px black !important;
+  /* border-radius: 3px; */
+  /* margin:0 0.02vw !important; */
+}
+
+.line-amount {
+  margin-right: -3rem !important;
+}
+.line-delete {
+  margin-top: 80% !important;
+}
+.line-all {
+  margin-right: 0rem !important;
+}
+.line-header {
+  background-color: #2e405b;
+  color: #ffffff !important;
+  border-radius: 3px !important;
+}
+.line-title {
+  padding: 0.5rem;
+  margin-left: 0;
+}
+.tableNameEmail {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* 
+THIS TAKES AWAY THE ARROW IN A TEXTFIELD WITH TYPE NUMBER */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.navBarBtn {
+  margin-bottom: 8px;
+}
+.summaryLeftSpacing {
+  padding-left: 92px !important;
+  padding-right: 15px !important;
+}
+.summaryLeftSpacingApplicants {
+  padding-left: 105px !important;
+  padding-right: 15px !important;
+}
+.rmsc {
+  --rmsc-main: #2e405b !important;
+}
+.rmsc .gray {
+  color: rgb(133, 133, 133) !important;
+  margin-left: 9px;
+  font-size: 15px;
+}
+.selectHeight .dropdown-heading {
+  height: 38px !important;
+}
+.selectHeight .dropdown-content {
+  z-index: 2 !important;
+}
+.postJobBtnIpadPro {
+  display: none !important;
+}
+.showMore a {
+  color: #2e405b;
+  text-decoration: none;
+  font-size: 0.875rem;
+  font-weight: 600 !important;
+}
+
+.editProfileBtn {
+  color: white !important;
+  border: 1px solid white !important;
+  font-size: 13px !important;
+  height: 43px;
+}
+
+.cardGradient {
+  background: linear-gradient(101deg, #4778ec, #60efff);
+  color: #ffffff !important;
+  padding: 14px 14px 30px 14px;
+  border-radius: 9px !important;
+}
+
+.meter {
+  display: flex;
+  justify-content: end;
+}
+
+.ProfileCompleteHeader {
+  font-size: 15px;
+}
+
+.CircularProgressbar-path {
+  stroke: #009e20;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 1s ease 0s;
+}
+.CircularProgressbar-trail {
+  stroke: #ffffff;
+}
+
+.summaryWeb {
+  margin-top: 24px;
+}
+
+.searchOrderBtn {
+  margin-right: 30px !important;
+  background-color: #2e405b !important;
+  color: white !important;
+  height: 39.5px !important;
+  margin-top: -1px !important;
+}
+.split {
+  background-color: #2e405b !important;
+}
+
+.searchOrderBtn2 {
+  margin-right: 30px !important;
+  color: #ffb648 !important;
+  border-color: #ffb648 !important;
+  height: 45px !important;
+  margin-top: -1px !important;
+}
+.scrollTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2e405b;
+  border-radius: 50%;
+  background-size: 40px;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  visibility: hidden;
+  opacity: 0;
+  transition: 0.5s ease-in-out;
+}
+.cpFilterLabel label {
+  background-color: white;
+  padding: 0 5px;
+}
+
+.cpFilterLabel1 label {
+  background-color: #f7f7f7;
+  padding: 0 5px;
+}
+.profileSelectIndustry {
+  margin-top: -20px !important;
+  text-transform: capitalize;
+}
+
+.scrollTop.active {
+  bottom: 40px;
+  visibility: visible;
+  opacity: 1;
+}
+.adminViewPageBtn {
+  display: flex;
+  justify-content: end;
+}
+.treeTop {
+  border-top: 1px dashed #009e20;
+  position: relative;
+  top: 60px;
+  margin-left: -19px;
+  z-index: -1;
+}
+.css-g0jugy-MuiCollapse-root-MuiTreeItem-group,
+.css-1xxsnna {
+  margin-left: 0 !important;
+}
+.pageMenuText {
+  color: #555555;
+  padding: 5px;
+}
+.pageMenuText:hover {
+  color: #2e405b;
+  font-weight: 700;
+}
+
+.pageMenuText:hover {
+  color: #2e405b;
+}
+
+.pageNameBanner {
+  text-align: center;
+  color: white;
+  position: relative;
+  top: -70px;
+}
+.invoiceTableScroll {
+  overflow-x: hidden !important;
+}
+.adminPageImage {
+  width: 100%;
+  height: auto;
+}
+
+.cpool-details {
+  display: flex;
+  flex-wrap: wrap;
+}
+.radioSpace {
+  margin-bottom: -14px;
+}
+
+.homepageContainer {
+  margin: 80px 165px 0 165px;
+}
+.FooterContainer {
+  margin: 0px 165px;
+}
+
+.BenefitheaderLine {
+  font-size: 27px;
+  font-weight: 700;
+  color: #2e405b;
+  border-bottom: 0.2rem solid #f6ee33;
+}
+.WhyJoinheaderLine {
+  font-size: 27px;
+  font-weight: 700;
+  color: #2e405b;
+  border-bottom: 0.2rem solid #f6ee33;
+}
+
+.ServicesheaderLine {
+  font-size: 27px;
+  font-weight: 700;
+  color: #2e405b;
+  border-bottom: 0.2rem solid #f6ee33;
+}
+
+.FairWorkProcessheaderLine {
+  font-size: 27px;
+  font-weight: 700;
+  color: #2e405b;
+  border-bottom: 0.2rem solid #f6ee33;
+}
+
+.HomepageTitle {
+  color: #2e405b;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.tabWidth {
+  width: 210px !important;
+}
+
+.nav-tabs {
+  border-color: #2e405b !important;
+  outline: #2e405b;
+}
+
+.nav-tabs .nav-link:active {
+  border-color: #2e405b !important;
+  outline: #2e405b;
+}
+
+.homeNumbering {
+  margin-right: 25px;
+}
+
+.homeNumbering.MuiChip-filled {
+  background-color: #2e405b;
+  color: #ffffff;
+}
+
+.become.MuiChip-filled {
+  background-color: #2e405b;
+  color: #ffffff;
+}
+
+.orderCount.MuiChip-filled {
+  background-color: #2e405b;
+  color: #ffffff;
+  border-radius: 15px !important;
+}
+
+.forClientsImg {
+  /* width: 580px; */
+}
+.forFreelancerImg {
+  /* width: 480px; */
+}
+.forFreelancerImgMobile {
+  display: none;
+}
+.forFreelancerImgWeb {
+}
+.contributionImg {
+  width: 480px;
+}
+.FreelancecontributionImg {
+  width: 480px;
+  margin-bottom: -34px;
+}
+.fairWorkProcessImg {
+  width: 75vw;
+  position: relative;
+}
+.fairWorkProcessImgMobile {
+  display: none !important;
+}
+
+.homePageSignUp {
+  border: 2px solid #2e405b !important;
+  color: #2e405b !important;
+}
+.ourServicesDiv {
+  background-color: #f2f2f4;
+  padding-top: 15px;
+}
+
+.serviceCard {
+  border: 2px solid #f6ee33;
+  border-radius: 10px;
+  background-color: #ffffff;
+  width: 235px;
+  text-align: center;
+  padding: 30px 0;
+  transition: 0.3s ease;
+  margin: 0 11px;
+}
+.serviceCard:hover {
+  background-color: #2e405b;
+  border: 2px solid #2e405b;
+}
+.serviceCard:hover .serviceCardTitles {
+  color: #ffffff;
+}
+.serviceCard:hover .serviceIcons {
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(43deg) brightness(108%)
+    contrast(105%);
+}
+.serviceCardTitles {
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  color: #2e405b;
+}
+.footerPadding {
+  background-color: #2e405b;
+  padding-top: 50px;
+  font-size: 13px;
+  color: #ffffff;
+}
+.forCleints {
+  border-bottom: 0.2rem solid #f6ee33;
+}
+.forFreelancers {
+  border-bottom: 0.2rem solid #f6ee33;
+}
+.footerCompany {
+  border-bottom: 0.2rem solid #f6ee33;
+}
+.copyRightMsg {
+  color: #ffffff;
+  text-align: center;
+}
+.hexagon {
+  position: absolute;
+  z-index: 1;
+}
+.clearHex {
+  position: relative;
+  background-color: #ffffff;
+  top: 12px;
+  right: 110px;
+  width: 650px;
+  height: 473.12px;
+  clip-path: polygon(0% 50%, 25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%);
+  -moz-clip-path: polygon(0% 50%, 25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%);
+  padding: 70px 0 0 130px;
+}
+
+.clearHex2 {
+  position: relative;
+  background-color: #ffffff;
+  top: 0px;
+  width: 650px;
+  height: 573.12px;
+  clip-path: polygon(0% 50%, 25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%);
+  -moz-clip-path: polygon(0% 50%, 25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%);
+  padding: 30px 0 0 0px;
+}
+
+.noHexOnMobile {
+  display: none !important;
+}
+
+.hexOnMobile {
+  width: 500px;
+}
+.freelanceSignupTop {
+  margin-top: 150px !important;
+}
+.freelanceHexOnMobile {
+  width: 700px;
+}
+.contentAbove {
+  position: absolute;
+  z-index: 2;
+}
+.welcomeCard {
+  padding: 20px;
+  background-color: #2e405b;
+  color: #ffffff;
+  text-align: center;
+}
+.welcomeHeading {
+  font-size: 23px;
+}
+
+.serviceTilesMobile {
+  flex-wrap: wrap;
+}
+
+/* custom scrollbar */
+
+::-webkit-scrollbar {
+  width: 8px !important;
+  height: 3px !important;
+}
+
+::-webkit-scrollbar-track {
+  background: #e0e0e0 !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a0a0a0 !important;
+  border-radius: 10px !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2e405b !important;
+}
+
+@page {
+  size: A4;
+  margin: 2mm 2mm 10mm 2mm;
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575.98px) {
+  .eduPeriod {
+    display: inline !important;
+  }
+
+  .expTitle {
+    display: flex !important;
+  }
+  .profileResponsive {
+    display: block !important;
+  }
+  .editDelete {
+    justify-content: start;
+  }
+  .mobileSpace {
+    margin-bottom: 5px;
+  }
+  .mobilefreelance{
+    margin: 0.75rem auto !important;
+  }
+  .mobileclient{
+    margin: 0.75rem auto !important;
+  }
+
+  .divider {
+    display: none;
+  }
+  .costItem {
+    padding-left: 40px !important;
+  }
+  .skill-level {
+    margin-bottom: 12px;
+  }
+  .itemAlign {
+    padding-left: 70px;
+    padding-left: 15px;
+  }
+  .invoiceRight {
+    padding-left: 27px !important;
+  }
+  .applyJobLeftPanel {
+    display: none;
+  }
+  .resetPasswordCard {
+    width: 80%;
+  }
+  .downPay {
+    display: block;
+    width: 100%;
+  }
+  .invoiceButtons {
+    width: 100%;
+    margin-right: 0 !important;
+  }
+  .sortRadio {
+    display: flex;
+    justify-content: space-between;
+  }
+  .line {
+    color: #555555;
+    height: 1px !important;
+    width: 100% !important;
+    opacity: 0.1;
+    margin: 0 0 !important;
+  }
+  .hoverButtons {
+    opacity: 1;
+  }
+  .cpAvatarProfile {
+    width: 90px !important;
+    height: 90px !important;
+  }
+  .postJobPaper {
+    width: 100% !important;
+  }
+  .hireNowDownBtn {
+    width: 100%;
+  }
+  .adminPageImage {
+    margin-top: 70px;
+  }
+  .postJobPaperAlt {
+    width: 100% !important;
+  }
+  .RecpostJobPaper {
+    width: 100% !important;
+  }
+  .RecpostJobPaperAlt {
+    width: 100% !important;
+  }
+  .colSpace {
+    width: 100% !important;
+    margin-bottom: 12px;
+  }
+  .invoiceNoteTextbox {
+    padding-right: 0 !important;
+  }
+  .candidateDetail {
+    width: 360px !important;
+  }
+  .summaryWeb {
+    display: none;
+  }
+  .signUpBtn{
+    width: 100%;
+  }
+  .freelancerSignUp{
+    margin-bottom: 30px;
+  }
+  .ProfileCompleteHeader {
+    text-align: center;
+  }
+  .summaryMobile {
+    display: block;
+  }
+  .adminPagesHomePage {
+    display: none;
+  }
+  .invoiceTableScroll {
+    overflow-x: scroll !important;
+  }
+  .candidate-pool-card {
+    height: 265px;
+  }
+  .addTeamBtn {
+    width: 100%;
+    margin-bottom: 10px !important;
+  }
+  .addedTeamBtn {
+    width: 100%;
+    margin-bottom: 10px !important;
+  }
+  .certdivider {
+    display: none;
+  }
+  .certificateDate {
+    display: inline-block;
+  }
+  .skill-divider {
+    display: none;
+  }
+  .exdivider {
+    display: none;
+  }
+  .expTitle {
+    display: inline-block;
+  }
+  .certAuthority {
+    display: inline-block;
+  }
+  .applicantDetail {
+    display: inline-block;
+  }
+  .applicantDetailsExp {
+    display: inline-block;
+  }
+  .GCAMobile {
+    display: inline-block;
+  }
+  .skillChipMobile {
+    display: inline-block !important;
+  }
+  .GCAView {
+    display: flex !important;
+  }
+  .navcontainer {
+    margin: 0;
+    padding-top: 10px;
+  }
+  .profileAvatar {
+    margin: 20px 0 40px 0 !important;
+  }
+  .profile-image-web {
+    margin-left: 0px;
+  }
+  .profileCardPadding {
+    padding: 38px !important;
+  }
+  .container {
+    overflow: hidden;
+  }
+  .ad-container {
+    overflow-x: auto;
+    width: 100% !important;
+    padding: 0 20px 0 20px;
+  }
+  .toggleLabelStatus {
+    margin-left: 5px !important;
+  }
+  .toggleLabelPilot {
+    margin-left: 14px !important;
+  }
+  .pageNameBanner {
+    top: -50px;
+  }
+  .menuButton {
+    display: block !important;
+    color: #2e405b !important;
+  }
+  .skillChip .MuiChip-label {
+    display: none;
+  }
+  .skillSpace {
+    justify-content: space-between !important;
+  }
+  .btnOnMobile {
+    display: none !important;
+  }
+  .summaryLeftSpacing {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .summaryLeftSpacingApplicants {
+    padding-left: 14px !important;
+    padding-right: 15px !important;
+    margin-top: 10px !important;
+  }
+  .navcontainer-login {
+    padding: 10px 10px 0px 10px !important;
+  }
+  .meter {
+    justify-content: center;
+    margin-top: 30px !important;
+  }
+  .newNavcontainer-login {
+    padding: 0px 10px 0px 10px !important;
+  }
+  .profileSelectIndustry {
+    margin-top: 10px !important;
+  }
+  .NewnavBar-login {
+    min-height: 0;
+  }
+  .editProfileBtn {
+    width: 100%;
+  }
+  .newDashboardLogo {
+    width: 145px;
+    margin-top: 15px;
+  }
+  .uploadHelpText {
+    display: none;
+  }
+  .uploadHelpTextMobile {
+    display: block !important;
+  }
+  .uploadHelpTextImgWeb {
+    display: none;
+  }
+  .uploadHelpTextImgMobile {
+    display: block;
+  }
+  .DesktopMenu {
+    display: none !important;
+  }
+  .radioSpace {
+    margin-bottom: 0;
+  }
+  .menuitems {
+    display: none !important;
+  }
+
+  .allJobsAvatar {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .adminViewPageBtn {
+    justify-content: start;
+    padding-left: 0 !important;
+    margin-bottom: 20px;
+  }
+  .filterBtn {
+    width: 100%;
+  }
+  .searchfilterBtn {
+    width: 100%;
+  }
+  .searchfilterBtn1 {
+    width: 100%;
+  }
+  .addPageBtn {
+    width: 100%;
+  }
+  .delBtn {
+    width: 100%;
+  }
+
+  .navBar {
+    /* background-color: grey !important; */
+  }
+
+  .filterOnMobile {
+    display: none;
+  }
+
+  .findFreelancer {
+    display: block;
+  }
+
+  .cost-unit {
+    text-align: left;
+  }
+
+  .allJobsTime {
+    text-align: left;
+  }
+  .partnersOnMobile {
+    width: 100%;
+    overflow-x: auto;
+  }
+  .homepage-backgorund {
+    display: none;
+  }
+  .webLandingImg {
+    display: none;
+  }
+  .homepage-backgorundMobile {
+    display: block;
+    height: 65vh;
+    width: auto;
+  }
+  .homepageContainer {
+    margin: 40px 15px 0 15px;
+  }
+  .BenefitheaderLine {
+    font-size: 21px;
+  }
+  .WhyJoinheaderLine {
+    font-size: 21px;
+  }
+  .ServicesheaderLine {
+    font-size: 21px;
+  }
+  .FairWorkProcessheaderLine {
+    font-size: 21px;
+    width: 210px;
+  }
+  .FooterContainer {
+    margin: 0px 15px;
+  }
+  .clearHex {
+    display: none !important;
+  }
+  .clearHex2 {
+    display: none !important;
+  }
+  .noHexOnMobile {
+    display: block !important;
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  .textSpaceMobile {
+    margin-top: 25px;
+  }
+  .hexOnMobile {
+    width: 300px;
+  }
+  .freelanceHexOnMobile {
+    display: none;
+  }
+  .contentAbove {
+    position: relative;
+    z-index: 2;
+  }
+  .homeBreak {
+    display: none !important;
+  }
+  .forClientsImg {
+    width: 100%;
+  }
+  .tabScrollMobile {
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+  .forFreelancerImg {
+    width: 100%;
+  }
+  .forFreelancerImgMobile {
+    display: block;
+  }
+  .forFreelancerImgWeb {
+    display: none;
+  }
+  .freelanceSignupTop {
+    margin-top: 0px !important;
+  }
+  .contributionImg {
+    width: 60vw;
+  }
+  .FreelancecontributionImg {
+    width: 310px;
+    margin-bottom: -22px;
+    margin-top: 25px;
+  }
+  .fairWorkProcessImg {
+    display: none;
+  }
+  .fairWorkProcessImgMobile {
+    display: block !important;
+    width: 90vw;
+    margin: auto;
+  }
+  .cpool-details {
+    display: block;
+    margin-bottom: 18px;
+  }
+  .cpool-divider {
+    display: none;
+  }
+  .addToTeamhelpText {
+    margin-top: 5px;
+  }
+  .paymentOrderMobile {
+    display: block;
+  }
+  .paymentOrderDesktop {
+    display: none;
+  }
+
+  .bannerMainText {
+    display: none !important;
+  }
+
+  .bannerMainTextMobile {
+    display: block !important;
+    font-size: 20px;
+  }
+
+  .bannerSubText {
+    display: none !important;
+  }
+
+  .bannerSubTextMobile {
+    font-size: 13px;
+    display: block !important;
+  }
+
+  .homepage-caption {
+    top: 130px;
+    left: 15px;
+    margin-right: 15px;
+  }
+
+  .homepage-btn {
+    width: 100%;
+    margin-top: 20px !important;
+  }
+  .search-field {
+    width: 100% !important;
+    margin-right: 0 !important;
+  }
+
+  .profileMenu {
+    width: 100%;
+  }
+
+  .openProfileMenuIcon {
+    display: block;
+  }
+
+  .profile-header {
+    padding-top: 32px;
+  }
+
+  .profileMenuContent {
+    display: flex;
+    overflow-x: scroll;
+  }
+
+  .menuIcon {
+    display: none !important;
+  }
+
+  .sideBoard {
+    display: none;
+  }
+
+  .cpAvatar {
+    width: 50px !important;
+    height: 50px !important;
+    margin-top: 8px;
+  }
+  .navBarBtn {
+    margin-bottom: 0;
+  }
+
+  .dashboardLogo {
+    visibility: visible;
+    width: 145px;
+  }
+
+  .MobiledashboardLogo {
+    width: 145px;
+  }
+
+  .homepageBrand {
+    margin-top: 4px;
+  }
+  .recruiterBrand {
+    margin-top: 8px;
+  }
+  .post-job-card {
+    width: 100% !important;
+    padding: 15px 20px !important;
+  }
+
+  .searchIcon {
+    display: none;
+  }
+
+  .fixedTable {
+    table-layout: auto;
+  }
+
+  .delButton {
+    padding-right: 0 !important;
+  }
+
+  main {
+    margin: 90px 11.6px 0 11.6px !important;
+    overflow-x: hidden !important;
+  }
+
+  .fullTable {
+    max-width: 100%;
+    overflow-x: scroll !important;
+  }
+
+  .addCartBtn {
+    width: 100%;
+  }
+
+  .RevgraphHeader {
+    width: 750px;
+  }
+
+  .UsersgraphHeader {
+    width: 700px;
+  }
+
+  .account-stting-form {
+    min-width: 100% !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  .profile-links-web {
+    display: none !important;
+  }
+
+  .profile-links-mobile {
+    display: initial !important;
+  }
+
+  .saveProfileChangesBtn {
+    width: 100% !important;
+  }
+  .ProfileChangesBtnContainer {
+    display: block;
+  }
+  .homepagebtnMobile {
+    text-align: center;
+  }
+  .serviceTilesMobile {
+    width: 100%;
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+  }
+  .serviceCard {
+    margin: 0 10px;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) and (max-width: 768.98px) {
+  .eduPeriod {
+    display: inline !important;
+  }
+  .invoiceBtn {
+    padding: 5px 8px 5px 8px !important;
+  }
+  .exdivider {
+    display: none;
+  }
+  .editDelete {
+    justify-content: start;
+  }
+  .mobilefreelance{
+    margin-left: 0.75rem !important;
+  }
+  .mobileclient{
+    margin-left: 0.75rem !important;
+  }
+  .mobileSpace {
+    margin-bottom: 5px;
+  }
+  .certificateDate {
+    display: block !important;
+  }
+  .editDelete {
+    justify-content: start !important;
+  }
+
+  .divider {
+    display: none;
+  }
+  .resetPasswordCard {
+    width: 80%;
+  }
+  .costItem {
+    padding-left: 40px !important;
+  }
+  .menuiconLogo {
+    margin-bottom: 4px !important;
+  }
+  .titleOnIpad {
+    margin-left: 71px !important;
+  }
+  .cpFilterLabel label {
+    font-size: 15px;
+    margin-top: 4px !important;
+  }
+  .post-job-card {
+    width: 80% !important;
+    padding: 15px 10px !important;
+  }
+  .postJobPaper {
+    width: 100% !important;
+  }
+  .postJobPaperAlt {
+    width: 100% !important;
+  }
+  .adminPagesHomePage {
+    display: none;
+  }
+  .RecpostJobPaper {
+    width: 100% !important;
+    height: 150px;
+  }
+  .RecpostJobPaperAlt {
+    width: 100% !important;
+    height: 150px;
+  }
+  .cPoolAbIconMobile {
+    display: block !important;
+  }
+  .addTeamBtn {
+    margin-left: -33px !important;
+  }
+  .addedTeamBtn {
+    margin-left: -33px !important;
+  }
+  .line {
+    color: #555555;
+    height: 100% !important;
+    width: 1px !important;
+    opacity: 0.1;
+    margin: 0 0 !important;
+    display: none !important;
+  }
+  .hoverButtons {
+    opacity: 1;
+  }
+  .navcontainer {
+    margin: 0;
+  }
+  .clearHex {
+    display: none !important;
+  }
+  .clearHex2 {
+    display: none !important;
+  }
+  .noHexOnMobile {
+    display: block !important;
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  .FreelancecontributionImg {
+    margin-bottom: -54px;
+  }
+  .menuButton {
+    display: block !important;
+    color: #2e405b !important;
+  }
+  .partnersOnMobile {
+    width: 100%;
+    overflow-x: auto;
+  }
+  .container {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-top: 80px;
+  }
+  .ad-container {
+    overflow-x: auto;
+    width: 100% !important;
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+  }
+  .pageNameBanner {
+    top: -50px;
+  }
+  .newNavcontainer-login {
+    padding: 0px 20px 0px 20px !important;
+  }
+  .signUpBtn{
+    width: 70%;
+  }
+
+  .NewnavBar-login {
+    min-height: 0;
+  }
+
+  .newDashboardLogo {
+    width: 145px;
+    margin-top: 15px;
+  }
+  .uploadHelpText {
+    display: none;
+  }
+  .uploadHelpTextMobile {
+    display: block !important;
+  }
+  .DesktopMenu {
+    display: none !important;
+  }
+
+  .btnOnMobile {
+    display: none !important;
+  }
+
+  .navcontainer-login {
+    padding: 15px 10px 0px 10px !important;
+  }
+
+  .menuitems {
+    display: none !important;
+  }
+
+  .navBar {
+    /* background-color: grey !important; */
+  }
+
+  .findFreelancer {
+    display: flex;
+  }
+
+  .homepage-backgorund {
+    display: none;
+  }
+
+  .webLandingImg {
+    display: none;
+  }
+
+  .homepage-backgorundMobile {
+    display: block;
+    height: 65vh;
+    width: auto;
+  }
+
+  .homepageContainer {
+    margin: 20px 30px;
+  }
+  .FooterContainer {
+    margin: 0px 28px;
+  }
+  .homeBreak {
+    display: none !important;
+  }
+  .hexOnMobile {
+    width: 300px;
+  }
+  .freelanceHexOnMobile {
+    width: 500px;
+  }
+  .forClientsImg {
+    width: 100%;
+  }
+  .forFreelancerImg {
+    width: 100% !important;
+  }
+  .contentAbove {
+    position: relative;
+    z-index: 2;
+  }
+  .bannerMainText {
+    font-size: 30px !important;
+  }
+
+  .bannerMainTextMobile {
+    display: none !important;
+  }
+
+  .bannerSubText {
+    font-size: 15px !important;
+  }
+
+  .homepage-caption {
+    top: 18%;
+    left: 25px;
+    color: #555555;
+  }
+
+  .homepage-btn {
+    width: 280px;
+    margin-top: 20px !important;
+  }
+
+  .search-field {
+    width: 280px !important;
+    margin-top: 22px !important;
+  }
+
+  .profileMenu {
+    width: 100%;
+  }
+
+  .openProfileMenuIcon {
+    display: block;
+  }
+
+  .profileMenuContent {
+    display: flex;
+    overflow-x: scroll;
+  }
+
+  .menuIcon {
+    display: none !important;
+  }
+
+  .sideBoard {
+    display: none;
+  }
+
+  .sideBoard {
+    display: none;
+  }
+
+  .navBarBtn {
+    /* display: none; */
+  }
+
+  .dashboardLogo {
+    visibility: visible;
+    width: 150px;
+  }
+
+  .MobiledashboardLogo {
+    width: 150px;
+  }
+
+  .homepageBrand {
+    margin-top: 4px;
+  }
+
+  .recruiterBrand {
+    margin-top: 8px;
+  }
+  .delButton {
+    padding-right: 0 !important;
+  }
+
+  main {
+    margin: 100px 11.6px 0 11.6px !important;
+  }
+
+  .fullTable {
+    max-width: 100%;
+    overflow-x: scroll !important;
+  }
+
+  .account-setting-form-layout {
+    min-width: 95% !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    margin: 0 auto;
+  }
+
+  .change-password-button {
+    min-width: 45% !important;
+  }
+
+  .account-stting-form {
+    min-width: 70% !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  .paymentOrderMobile {
+    display: block;
+  }
+  .paymentOrderDesktop {
+    display: none;
+  }
+  .forFreelancerImg {
+    width: 400px;
+  }
+
+  .adminDashboardSummaryContainer {
+    display: none;
+  }
+  .adminDashboardSummaryContainerMobile {
+    display: block;
+  }
+}
+.subtitle1 {
+  line-height: 1px;
+}
+
+/* Medium devices (tablets, 769px and up) */
+
+@media (min-width: 769px) and (max-width: 991.98px) {
+  .profileRes {
+    display: inline-block !important;
+  }
+  .skillSet {
+    display: flex;
+  }
+  .eduPeriod {
+    display: none;
+  }
+  .editDelete {
+    display: flex;
+    justify-content: end;
+  }
+  .profileResEdit {
+    display: inline-block !important;
+  }
+  .certificateDate {
+    display: flex;
+    justify-content: start;
+  }
+  .resetPasswordCard {
+    width: 60%;
+  }
+  .costItem {
+    padding-left: 52px !important;
+  }
+  .totalEnd {
+    padding-left: 80px !important;
+  }
+
+  .line {
+    transform: rotate(90deg);
+    height: 20px;
+  }
+
+  .navcontainer {
+    margin: 0;
+  }
+
+  .signUpBtn{
+    width: 70%;
+  }
+
+  .maincontent {
+    margin: 0 15px !important;
+  }
+
+  .menu-mobile {
+    display: block !important;
+  }
+
+  .menuButton {
+    display: block !important;
+  }
+
+  .navcontainer-login {
+    margin: 0;
+  }
+
+  .homepage-caption {
+    top: 15%;
+    left: 9%;
+    color: #555555;
+  }
+
+  .bannerMainText {
+    font-size: 20px;
+  }
+
+  .bannerMainTextMobile {
+    display: none !important;
+  }
+
+  .bannerSubText {
+    font-size: 10px;
+  }
+
+  .profileDetails {
+    margin: auto;
+  }
+  .GCAView {
+    display: grid;
+    grid-template-columns: 18% 80%;
+  }
+
+  /* Extra small devices (portrait phones, less than 576px) */
+
+  @media (max-width: 575.98px) {
+    .eduPeriod {
+      display: inline !important;
+    }
+
+    .expTitle {
+      display: flex !important;
+    }
+    .profileResponsive {
+      display: block !important;
+    }
+    .editDelete {
+      justify-content: start;
+    }
+    .mobileSpace {
+      margin-bottom: 5px;
+    }
+    .skillsPaper {
+      min-width: 30%;
+      min-height: 90px;
+      margin-right: 10px;
+    }
+    .skillsPaperAppliDetails {
+      min-height: 80px;
+    }
+    .skillsPaperNotCertified {
+      min-width: 30%;
+      min-height: 50px;
+    }
+    .skillsCardContainer {
+      justify-content: left !important;
+    }
+    .skillNameTitle {
+      margin-right: 7px;
+      font-weight: 600 !important;
+      margin-bottom: 5px;
+    }
+    .skillProficiency {
+      margin-bottom: 0px !important;
+    }
+    .skillCertified {
+      margin-bottom: 0px !important;
+    }
+
+    .divider {
+      display: none;
+    }
+    .costItem {
+      padding-left: 40px !important;
+    }
+    .itemAlign {
+      padding-left: 70px;
+      padding-left: 15px;
+    }
+    .invoiceRight {
+      padding-left: 27px !important;
+    }
+    .applyJobLeftPanel {
+      display: none;
+    }
+    .resetPasswordCard {
+      width: 80%;
+    }
+    .downPay {
+      display: block;
+      width: 100%;
+    }
+    .invoiceButtons {
+      width: 100%;
+      margin-right: 0 !important;
+    }
+    .sortRadio {
+      display: flex;
+      justify-content: space-between;
+    }
+    .line {
+      color: #555555;
+      height: 1px !important;
+      width: 100% !important;
+      opacity: 0.1;
+      margin: 0 0 !important;
+    }
+    .hoverButtons {
+      opacity: 1;
+    }
+    .cpAvatarProfile {
+      width: 90px !important;
+      height: 90px !important;
+    }
+    .postJobPaper {
+      width: 100% !important;
+    }
+    .hireNowDownBtn {
+      width: 100%;
+    }
+    .adminPageImage {
+      margin-top: 70px;
+    }
+    .postJobPaperAlt {
+      width: 100% !important;
+    }
+    .RecpostJobPaper {
+      width: 100% !important;
+    }
+    .RecpostJobPaperAlt {
+      width: 100% !important;
+    }
+    .colSpace {
+      width: 100% !important;
+      margin-bottom: 12px;
+    }
+    .invoiceNoteTextbox {
+      padding-right: 0 !important;
+    }
+    .candidateDetail {
+      width: 360px !important;
+    }
+    .summaryWeb {
+      display: none;
+    }
+    .ProfileCompleteHeader {
+      text-align: center;
+    }
+    .summaryMobile {
+      display: block;
+    }
+    .adminPagesHomePage {
+      display: none;
+    }
+    .invoiceTableScroll {
+      overflow-x: scroll !important;
+    }
+    .candidate-pool-card {
+      height: 265px;
+    }
+    .addTeamBtn {
+      width: 100%;
+      margin-bottom: 10px !important;
+    }
+    .addedTeamBtn {
+      width: 100%;
+      margin-bottom: 10px !important;
+    }
+    .certdivider {
+      display: none;
+    }
+    .certificateDate {
+      display: inline-block;
+    }
+    .skill-divider {
+      display: none;
+    }
+    .exdivider {
+      display: none;
+    }
+    .expTitle {
+      display: inline-block;
+    }
+    .certAuthority {
+      display: inline-block;
+    }
+    .applicantDetail {
+      display: inline-block;
+    }
+    .applicantDetailsExp {
+      display: inline-block;
+    }
+    .skillChipWeb {
+      /* display: none !important; */
+    }
+    .GCAMobile {
+      display: inline-block;
+    }
+    .skillChipMobile {
+      display: inline-block !important;
+    }
+    .navcontainer {
+      margin: 0;
+      padding-top: 10px;
+    }
+    .profileAvatar {
+      margin: 20px 0 40px 0 !important;
+    }
+    .profile-image-web {
+      margin-left: 0px;
+    }
+    .profileCardPadding {
+      padding: 38px !important;
+    }
+    .container {
+      overflow: hidden;
+    }
+    .ad-container {
+      overflow-x: auto;
+      width: 100% !important;
+      padding: 0 20px 0 20px;
+    }
+    .toggleLabelStatus {
+      margin-left: 5px !important;
+    }
+    .toggleLabelPilot {
+      margin-left: 14px !important;
+    }
+    .pageNameBanner {
+      top: -50px;
+    }
+    .menuButton {
+      display: block !important;
+      color: #2e405b !important;
+    }
+    .skillChip .MuiChip-label {
+      display: none;
+    }
+    .skillSpace {
+      justify-content: space-between !important;
+    }
+    .btnOnMobile {
+      display: none !important;
+    }
+    .summaryLeftSpacing {
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+    }
+    .summaryLeftSpacingApplicants {
+      padding-left: 14px !important;
+      padding-right: 15px !important;
+      margin-top: 10px !important;
+    }
+    .navcontainer-login {
+      padding: 10px 10px 0px 10px !important;
+    }
+    .meter {
+      justify-content: center;
+      margin-top: 30px !important;
+    }
+    .newNavcontainer-login {
+      padding: 0px 10px 0px 10px !important;
+    }
+    .profileSelectIndustry {
+      margin-top: 10px !important;
+    }
+    .NewnavBar-login {
+      min-height: 0;
+    }
+    .editProfileBtn {
+      width: 100%;
+    }
+    .newDashboardLogo {
+      width: 145px;
+      margin-top: 15px;
+    }
+    .uploadHelpText {
+      display: none;
+    }
+    .uploadHelpTextMobile {
+      display: block !important;
+    }
+    .uploadHelpTextImgWeb {
+      display: none;
+    }
+    .uploadHelpTextImgMobile {
+      display: block;
+    }
+    .DesktopMenu {
+      display: none !important;
+    }
+    .radioSpace {
+      margin-bottom: 0;
+    }
+    .menuitems {
+      display: none !important;
+    }
+
+    .allJobsAvatar {
+      width: 30px !important;
+      height: 30px !important;
+    }
+    .adminViewPageBtn {
+      justify-content: start;
+      padding-left: 0 !important;
+      margin-bottom: 20px;
+    }
+    .filterBtn {
+      width: 100%;
+    }
+    .searchfilterBtn {
+      width: 100%;
+    }
+    .searchfilterBtn1 {
+      width: 100%;
+    }
+    .addPageBtn {
+      width: 100%;
+    }
+    .delBtn {
+      width: 100%;
+    }
+
+    .navBar {
+      /* background-color: grey !important; */
+    }
+
+    .filterOnMobile {
+      display: none;
+    }
+
+    .findFreelancer {
+      display: block;
+    }
+
+    .cost-unit {
+      text-align: left;
+    }
+
+    .allJobsTime {
+      text-align: left;
+    }
+    .partnersOnMobile {
+      width: 100%;
+      overflow-x: auto;
+    }
+    .homepage-backgorund {
+      display: none;
+    }
+    .webLandingImg {
+      display: none;
+    }
+    .homepage-backgorundMobile {
+      display: block;
+      height: 65vh;
+      width: auto;
+    }
+    .homepageContainer {
+      margin: 40px 15px 0 15px;
+    }
+    .BenefitheaderLine {
+      font-size: 21px;
+    }
+    .WhyJoinheaderLine {
+      font-size: 21px;
+    }
+    .ServicesheaderLine {
+      font-size: 21px;
+    }
+    .FairWorkProcessheaderLine {
+      font-size: 21px;
+      width: 210px;
+    }
+    .FooterContainer {
+      margin: 0px 15px;
+    }
+    .clearHex {
+      display: none !important;
+    }
+    .clearHex2 {
+      display: none !important;
+    }
+    .noHexOnMobile {
+      display: block !important;
+      background-color: #ffffff;
+      padding: 10px;
+    }
+    .textSpaceMobile {
+      margin-top: 25px;
+    }
+    .hexOnMobile {
+      width: 300px;
+    }
+    .freelanceHexOnMobile {
+      display: none;
+    }
+    .contentAbove {
+      position: relative;
+      z-index: 2;
+    }
+    .homeBreak {
+      display: none !important;
+    }
+    .forClientsImg {
+      width: 100%;
+    }
+    .tabScrollMobile {
+      flex-wrap: nowrap !important;
+      overflow-x: auto;
+      overflow-y: hidden;
+    }
+    .forFreelancerImg {
+      width: 100%;
+    }
+    .forFreelancerImgMobile {
+      display: block;
+    }
+    .forFreelancerImgWeb {
+      display: none;
+    }
+    .freelanceSignupTop {
+      margin-top: 0px !important;
+    }
+    .contributionImg {
+      width: 60vw;
+    }
+    .FreelancecontributionImg {
+      width: 310px;
+      margin-bottom: -22px;
+      margin-top: 25px;
+    }
+    .fairWorkProcessImg {
+      display: none;
+    }
+    .fairWorkProcessImgMobile {
+      display: block !important;
+      width: 90vw;
+      margin: auto;
+    }
+    .cpool-details {
+      display: block;
+      margin-bottom: 18px;
+    }
+    .cpool-divider {
+      display: none;
+    }
+    .addToTeamhelpText {
+      margin-top: 5px;
+    }
+    .paymentOrderMobile {
+      display: block;
+    }
+    .paymentOrderDesktop {
+      display: none;
+    }
+
+    .bannerMainText {
+      display: none !important;
+    }
+
+    .bannerMainTextMobile {
+      display: block !important;
+      font-size: 20px;
+    }
+
+    .bannerSubText {
+      display: none !important;
+    }
+
+    .bannerSubTextMobile {
+      font-size: 13px;
+      display: block !important;
+    }
+
+    .homepage-caption {
+      top: 130px;
+      left: 15px;
+      margin-right: 15px;
+    }
+
+    .homepage-btn {
+      width: 100%;
+      margin-top: 20px !important;
+    }
+    .search-field {
+      width: 100% !important;
+      margin-right: 0 !important;
+    }
+
+    .profileMenu {
+      width: 100%;
+    }
+
+    .openProfileMenuIcon {
+      display: block;
+    }
+
+    .profile-header {
+      padding-top: 32px;
+    }
+
+    .profileMenuContent {
+      display: flex;
+      overflow-x: scroll;
+    }
+
+    .menuIcon {
+      display: none !important;
+    }
+
+    .sideBoard {
+      display: none;
+    }
+
+    .cpAvatar {
+      width: 50px !important;
+      height: 50px !important;
+      margin-top: 8px;
+    }
+    .navBarBtn {
+      margin-bottom: 0;
+    }
+
+    .dashboardLogo {
+      visibility: visible;
+      width: 145px;
+    }
+
+    .MobiledashboardLogo {
+      width: 145px;
+    }
+
+    .homepageBrand {
+      margin-top: 4px;
+    }
+    .recruiterBrand {
+      margin-top: 8px;
+    }
+    .post-job-card {
+      width: 100% !important;
+      padding: 15px 20px !important;
+    }
+
+    .searchIcon {
+      display: none;
+    }
+
+    .fixedTable {
+      table-layout: auto;
+    }
+
+    .delButton {
+      padding-right: 0 !important;
+    }
+
+    main {
+      margin: 90px 11.6px 0 11.6px !important;
+      overflow-x: hidden !important;
+    }
+
+    .fullTable {
+      max-width: 100%;
+      overflow-x: scroll !important;
+    }
+
+    .addCartBtn {
+      width: 100%;
+    }
+
+    .RevgraphHeader {
+      width: 750px;
+    }
+
+    .UsersgraphHeader {
+      width: 700px;
+    }
+
+    .account-stting-form {
+      min-width: 100% !important;
+      padding-left: 10px !important;
+      padding-right: 10px !important;
+    }
+
+    .profile-links-web {
+      display: none !important;
+    }
+
+    .profile-links-mobile {
+      display: initial !important;
+    }
+
+    .saveProfileChangesBtn {
+      width: 100% !important;
+    }
+    .ProfileChangesBtnContainer {
+      display: block;
+    }
+    .homepagebtnMobile {
+      text-align: center;
+    }
+    .serviceTilesMobile {
+      width: 100%;
+      overflow-x: scroll;
+      flex-wrap: nowrap;
+    }
+    .serviceCard {
+      margin: 0 10px;
+    }
+  }
+
+  .openProfileMenuIcon {
+    display: block;
+  }
+
+  .sideBoard {
+    display: none;
+  }
+
+  .navBarBtn {
+    /* display: none; */
+  }
+
+  .dashboardLogo {
+    visibility: visible;
+  }
+  .paymentOrderMobile {
+    display: block;
+  }
+  .paymentOrderDesktop {
+    display: none;
+  }
+  .webLandingImg {
+    height: 32vh;
+  }
+  .homepageContainer {
+    margin-left: 45px;
+  }
+  .forFreelancerImg {
+    width: 400px;
+  }
+  .menuButton {
+    color: #2e405b !important;
+  }
+
+  .adminDashboardSummaryContainer {
+    display: none;
+  }
+  .adminDashboardSummaryContainerMobile {
+    display: block;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) and (max-width: 1366px) {
+  .profileRes {
+    display: inline-block !important;
+  }
+  .fairWorkProcessImg {
+    right: 1.2%;
+  }
+  .skillSet {
+    display: flex;
+  }
+  .editDelete {
+    display: flex;
+    justify-content: end;
+  }
+  .certificateDate {
+    display: flex !important;
+    justify-content: end;
+  }
+  .signUpBtn{
+    width: 70%;
+  }
+  .profileResEdit {
+    display: inline-block !important;
+  }
+  .menu-mobile {
+    display: none !important;
+  }
+  .costItem {
+    padding-left: 68px !important;
+  }
+  .totalEnd {
+    padding-left: 92px !important;
+  }
+  .webLandingImg {
+    height: auto;
+    margin-bottom: 0;
+  }
+  .forFreelancerImg {
+    /* width: 430px; */
+  }
+  .GCAView {
+    display: grid;
+    grid-template-columns: 14% 81%;
+  }
+  .signUpBtn{
+    width: 70%;
+  }
+}
+
+/* Extra large screens */
+@media (min-width: 1367px) {
+  .profileRes {
+    display: inline-block !important;
+  }
+  .skillSet {
+    display: flex;
+  }
+  .fairWorkProcessImg {
+    right: 2.2%;
+  }
+  .profileResEdit {
+    display: inline-block !important;
+  }
+  .editDelete {
+    justify-content: end;
+  }
+  .certificateDate {
+    display: flex !important;
+    justify-content: end;
+  }
+  .container {
+    width: 1080px !important;
+  }
+  .navcontainer {
+    margin: 0 240px;
+  }
+  .FooterContainer {
+    margin: 0px 265px;
+  }
+  .homepage-caption {
+    left: 265px;
+  }
+  .homepageContainer {
+    margin: 80px 265px 0 265px;
+  }
+  .ad-container {
+    width: 1080px !important;
+  }
+  .threemonthsPostJob {
+    margin-right: 20px;
+  }
+  .sixmonthsPostJob {
+    margin-left: 20px;
+  }
+  .costItem {
+    padding-left: 80px !important;
+  }
+
+  .totalEnd {
+    padding-left: 100px !important;
+  }
+  .GCAView {
+    display: grid;
+    grid-template-columns: 11% 83%;
+  }
+  .signUpBtn{
+    width: 65%;
+  }
+}
+
+/* Ipad Pro */
+
+@media (width: 1024px) {
+  .container {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-top: 130px;
+  }
+  .skillSet {
+    display: flex;
+  }
+  .editDelete {
+    justify-content: end;
+  }
+  .ad-container {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+  }
+  .newNavcontainer-login {
+    padding: 0px 25px !important;
+  }
+  .btnOnMobile {
+    display: none !important;
+  }
+  .post-job-card {
+    width: 100% !important;
+  }
+  .postJobBtnIpadPro {
+    display: inline-block !important;
+  }
+  .navItems.MuiTab-root {
+    min-width: 130px;
+  }
+  .homepage-caption {
+    top: 15%;
+    left: 7.5%;
+    color: #555555;
+  }
+  .navcontainer {
+    margin: 0 50px;
+    padding-top: 20px;
+  }
+  .bannerMainText {
+    font-size: 29px;
+    font-weight: 700;
+  }
+  .hoverButtons {
+    opacity: 1;
+  }
+  .bannerMainTextMobile {
+    display: none !important;
+  }
+  .partnersOnMobile {
+    width: 100%;
+    overflow-x: auto;
+  }
+  .uploadHelpText {
+    display: none;
+  }
+  .uploadHelpTextMobile {
+    display: block !important;
+  }
+  .bannerSubText {
+    color: #555555;
+    font-size: 11px;
+  }
+  .homeBreak {
+    display: none !important;
+  }
+  .clearHex {
+    display: none !important;
+  }
+  .clearHex2 {
+    display: none !important;
+  }
+  .noHexOnMobile {
+    display: block !important;
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  .hexOnMobile {
+    width: 300px;
+  }
+  .freelanceHexOnMobile {
+    width: 500px;
+  }
+  .contentAbove {
+    position: relative;
+    z-index: 2;
+  }
+  .homepageContainer {
+    margin: 80px 87px 0 87px;
+  }
+  .FooterContainer {
+    margin: 0px 70px;
+  }
+  .FreelancecontributionImg {
+    width: 310px;
+    margin-bottom: -52px;
+  }
+  .forClientsImg {
+    width: 100%;
+  }
+  .forFreelancerImg {
+    width: 100% !important;
+  }
+  .serviceCard {
+    margin: 0 10px;
+  }
+  .webLandingImg {
+    height: 30vh !important;
+  }
+  /* .GCAView{
+    display: grid;
+    grid-template-columns: 20% 83%;
+  } */
+}
+
+/* Admin dashboard */
+.adminSummaryTooltip {
+  width: 220px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+}
+.adminSummaryTooltip p {
+  font-style: 16px;
+}
+
+.adminFreelancerDBIcon {
+  background-color: #2e405b1c;
+  border-radius: 10px;
+  padding: 10px;
+  color: #2e405b;
+  margin-right: 10px;
+}
+
+.adminDashboardJobsIcon,
+.adminDashboardNewRequestsIcon,
+.adminFreelancerDBIcon,
+.adminDashboardClinetIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+}
+
+.adminDashboardJobsIcon {
+  background-color: #ea2e2e23;
+  border-radius: 10px;
+  padding: 10px;
+  margin-right: 10px;
+}
+.adminDashboardNewRequestsIcon {
+  background-color: rgba(0, 128, 0, 0.172);
+  border-radius: 10px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.adminDashboardClinetIcon {
+  background-color: #ffb64831;
+  border-radius: 10px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.adminTopentryTextNumber {
+  color: #2e405b;
+
+  font-weight: 600;
+}
+
+.adminTopentryText {
+  font-size: 15px;
+  color: #a3a2a2;
+}
+
+.adminDasboardTotals {
+  color: red;
+  font-weight: normal;
+}
+
+/* Users Graph */
+
+.usersGraphTitile {
+  color: #2e405b;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+}
+.allJobsSearchPlaceholder ::placeholder {
+  font-size: 15px !important;
+}
+
+.search-field ::placeholder {
+  font-size: 14px !important;
+}
+
+.allJobsColumn::-webkit-scrollbar {
+  display: none;
+}
+.filterRadio.MuiRadio-colorSecondary.Mui-checked {
+  color: #2e405b !important;
+}
+
+.filtercheckbox.MuiCheckbox-colorSecondary.Mui-checked {
+  color: #2e405b !important;
+}
+
+.MuiCheckbox-colorPrimary.Mui-checked {
+  color: #2e405b !important;
+}
+.MuiRadio-colorPrimary.Mui-checked {
+  color: #2e405b !important;
+}
+
+.radioGroup .MuiTypography-body1 {
+  font-size: 0.875rem;
+}
+
+/* Users Graph */
+
+.usersGraphTitile {
+  color: #2e405b;
+  font-weight: 600;
+}
+
+.noOfFreelancerText,
+.noOfClientText,
+.noOfHiredText {
+  color: #cccccc;
+}
+
+.noOfFreelancer,
+.activeFreelancer,
+.deactivated,
+.hired,
+.available,
+.localJobs,
+.noOfClient,
+.foriegnJobs,
+.foriegnClient,
+.noOfHired {
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  margin-right: 5px;
+}
+
+.activeFreelancer {
+  background-color: green;
+}
+.deactivated,
+.localJobs {
+  background-color: red;
+}
+.hired,
+.foriegnJobs {
+  background-color: gold;
+}
+.available {
+  background-color: blue;
+}
+
+.noOfFreelancer {
+  background-color: #2e405b;
+}
+
+.noOfClient {
+  background-color: #ffb648;
+}
+
+.noOfHired,
+.foriegnClient {
+  background-color: #5f2eea80;
+}
+
+.last12Months {
+  width: 8px;
+  height: 8px;
+  background-color: #a41201;
+  border-radius: 99px;
+  margin-right: 5px;
+}
+
+.thisMonth {
+  width: 8px;
+  height: 8px;
+  background-color: #2e405b;
+  border-radius: 99px;
+  margin-right: 5px;
+}
+
+.apply-job-btn {
+  width: 190px !important;
+  background-color: #2e405b !important;
+  color: white !important;
+}
+.apply-job-btnDisabled {
+  width: 190px !important;
+}
+
+/* error messages css*/
+
+.error-text {
+  color: red;
+  font-size: 13px;
+  font-style: italic;
+  position: absolute;
+}
+
+.MuiFormLabel-asterisk {
+  color: #ff0000 !important ;
+}
+
+.adminDashboardTotalsText {
+  color: #2e405b;
+}
+
+.separator {
+  display: block;
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.separator > span {
+  position: relative;
+  display: inline-block;
+}
+
+.separator > span:before,
+.separator > span:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 1px;
+  background: #f2f2f2;
+}
+
+.separator > span:before {
+  right: 100%;
+  margin-right: 10px;
+}
+
+.separator > span:after {
+  left: 100%;
+  margin-left: 10px;
+}
+
+.MuiTooltip-tooltip{
+  background-color: white;
+  color: "gray"
+}
